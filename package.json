@@ -1,0 +1,26 @@
+{
+  "name": "njet-configuration",
+  "version": "1.0.0",
+  "description": "Simple configuration module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madman-labs/njet-configuration.git"
+  },
+  "keywords": [
+    "configuration"
+  ],
+  "author": "Dariusz Półtorak <poltorak.dariusz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madman-labs/njet-configuration/issues"
+  },
+  "homepage": "https://github.com/madman-labs/njet-configuration#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "should": "^9.0.2"
+  }
+}
